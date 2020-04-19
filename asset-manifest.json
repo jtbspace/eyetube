@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/eyetube/static/css/main.2949e209.chunk.css",
+    "main.js": "/eyetube/static/js/main.66804718.chunk.js",
+    "main.js.map": "/eyetube/static/js/main.66804718.chunk.js.map",
+    "runtime-main.js": "/eyetube/static/js/runtime-main.95bbcc16.js",
+    "runtime-main.js.map": "/eyetube/static/js/runtime-main.95bbcc16.js.map",
+    "static/js/2.19481fb6.chunk.js": "/eyetube/static/js/2.19481fb6.chunk.js",
+    "static/js/2.19481fb6.chunk.js.map": "/eyetube/static/js/2.19481fb6.chunk.js.map",
+    "index.html": "/eyetube/index.html",
+    "precache-manifest.1b8d9e695713a27dd74a3d8cec20c5ab.js": "/eyetube/precache-manifest.1b8d9e695713a27dd74a3d8cec20c5ab.js",
+    "service-worker.js": "/eyetube/service-worker.js",
+    "static/css/main.2949e209.chunk.css.map": "/eyetube/static/css/main.2949e209.chunk.css.map",
+    "static/js/2.19481fb6.chunk.js.LICENSE.txt": "/eyetube/static/js/2.19481fb6.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.95bbcc16.js",
+    "static/js/2.19481fb6.chunk.js",
+    "static/css/main.2949e209.chunk.css",
+    "static/js/main.66804718.chunk.js"
+  ]
+}
