@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/eyetube/precache-manifest.1b8d9e695713a27dd74a3d8cec20c5ab.js"
+  "/eyetube/precache-manifest.ec8f4c4e2018a628301faff817380848.js"
 );
 
 self.addEventListener('message', (event) => {
